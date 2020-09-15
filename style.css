@@ -1,0 +1,27 @@
+.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+}
+.form{
+    display:flex;
+    flex-flow: column;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 5%;
+    width: 30%;
+    height: 60%;
+    justify-content: space-evenly;
+}
+
+.btn.btn-primary{
+    width: 100%;
+}
+
+.header{
+    padding-bottom: 30px;
+    border-bottom: 1px #8c8c8c solid;
+    text-align: center;
+}
